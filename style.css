@@ -1,0 +1,56 @@
+*{
+    margin:0px;
+    padding: 0px;
+
+}
+
+div{
+    border: 3px solid black;
+    /* padding-left:100px; */
+    width: 500px;
+    position: relative;
+    left:300px;
+    border-radius: 5px;
+}
+h1{
+    padding-left: 100px;
+    margin: 20px;
+}
+label[for=text]{
+    padding-left: 50px;
+}
+input[type=text]{
+    padding-left: 50%;
+    margin-left: 50px;
+}
+input[type=radio]{
+    padding-left: 50%;
+    margin-left: 50px;
+}
+input[type=checkbox]{
+    padding-left: 50%;
+    margin-left: 50px;
+}
+input[type=email]{
+    padding-left: 50%;
+    margin-left: 50px;
+}
+input[type=number]{
+    padding-left: 50%;
+    margin-left: 50px;
+}
+/* button{
+    margin-left:25px;
+    padding-left: 80%;
+    background-color: rgb(69, 225, 69);
+
+} */
+button{
+    margin-left: 200px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    padding:5px;
+    width: 100px;
+    background-color:grey;
+
+}
